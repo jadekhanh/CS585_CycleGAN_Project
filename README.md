@@ -12,6 +12,9 @@ This work would expand on a project currently in research at the Computational I
 In our experiments, we used the following datasets:
 * 3D brain MR images: [OASIS-3 dataset](https://www.oasis-brains.org/)
 
+# Presentation
+https://docs.google.com/presentation/d/1ktzwCI8lbpFUkPfok3ocVq5GxlDVPm1xVYCZ0k6l8As/edit?usp=sharing
+
 # Citation
 @inproceedings{kim2022diffusemorph,
   title={DiffuseMorph: Unsupervised Deformable Image Registration Using Diffusion Model},
