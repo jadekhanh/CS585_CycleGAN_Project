@@ -53,3 +53,6 @@ python3 main_3D.py -p test -c config/diffuseMorph_test_3D.json
   organization={Springer}
 }
 ```
+
+# Note
+toy_sample folder's size is too large to upload. Follow this link to see and download the folder: https://drive.google.com/drive/folders/1l9VBQFQPTHcNVXknJE_rLOMWUisMaOlQ?usp=sharing
