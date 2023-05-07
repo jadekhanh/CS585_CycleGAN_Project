@@ -1,4 +1,4 @@
-# CS-585-Final-Project
+# CS 585 CycleGAN Final Project
 
 # Goal
 
