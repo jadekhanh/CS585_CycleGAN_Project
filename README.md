@@ -1,5 +1,9 @@
 # CS 585 CycleGAN Final Project
 
+# Collaborators:
+John Mcdonough
+Phuong Khanh Tran
+
 # Goal
 
 Our goal is to perform image-to-image translation on an unpaired dataset of optical coherence tomography (OCT) brain scan images and images of brain tissues treated via Gallyas silver staining. Our approach would be to implement a diffusion model using the dataset to perform unsupervised “digital staining” on the OCT scans. 
