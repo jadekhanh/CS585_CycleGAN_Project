@@ -1,8 +1,7 @@
 # CS 585 CycleGAN Final Project
 
 # Collaborators:
-John Mcdonough
-Phuong Khanh Tran
+John Mcdonough, Phuong Khanh Tran
 
 # Goal
 
